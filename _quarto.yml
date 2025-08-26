@@ -9,6 +9,7 @@ book:
     - index.qmd
     - intro.qmd
     - quarto-live.qmd
+    - live-python.qmd
     - summary.qmd
     - references.qmd
 
@@ -19,8 +20,6 @@ format:
     theme:
       - cosmo
       - brand
-  pdf:
-    documentclass: scrreprt
 
 editor: visual
 

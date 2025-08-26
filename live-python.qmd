@@ -1,0 +1,9 @@
+---
+title: "Live Python Code Execution"
+format: live-html
+---
+
+```{pyodide}
+for x in range(1, 6):
+  print(10 + x)
+```
