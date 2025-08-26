@@ -8,6 +8,7 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - quarto-live.qmd
     - summary.qmd
     - references.qmd
 
