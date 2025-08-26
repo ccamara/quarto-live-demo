@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: "im942_handbook"
+  author: "Norah Jones"
+  date: "26/8/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
